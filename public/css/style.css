@@ -1,0 +1,10 @@
+/* public/css/style.css */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .logo {
+    max-width: 200px;
+  }
+  

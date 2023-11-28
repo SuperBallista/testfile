@@ -23,7 +23,7 @@ const connection = mysql.createConnection({
   host: 'host-name',
   user: 'user-name',
   password: 'mypassword',
-  database: 'database-name',
+  database: 'database_name',
 });
 
 // 연결 시작
